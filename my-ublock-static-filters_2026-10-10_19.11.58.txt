@@ -1,0 +1,17 @@
+! Oct 5, 2026 https://gemini.google.com
+gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
+
+! Oct 7, 2026 https://www.google.com
+www.google.com##.C6AK7c.XVMlrc > .mXwfNd > .mVH5Fc
+www.google.com##div.EjQTId.YNk70c:nth-of-type(1)
+
+! Oct 7, 2026 https://www.youtube.com
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+
+! Oct 10, 2026 https://math.stackexchange.com
+math.stackexchange.com##.js-sticky-bottom-sidebar.md\:ps-static.ps-sticky.show-votes
+math.stackexchange.com##.ps-relative.js-pinned-left-sidebar.left-sidebar
+
+! Oct 10, 2026 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.ArticlePageRightBar_searchRightBar__osfQl
+www.geeksforgeeks.org##.LeftbarContainer_leftBarContainer___TfRB
